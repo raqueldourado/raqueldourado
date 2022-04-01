@@ -1,7 +1,5 @@
 ### Hi, I am Raquel Dourado
 
-- I work with Python and R for Business
-
 <div>
   <a href="https://github.com/raqueldourado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raqueldourado&show_icons=true&theme=dracula&include_all_commits=true$count_private=true"/>
